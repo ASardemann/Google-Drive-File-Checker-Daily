@@ -4,13 +4,12 @@ Checks the changed files in your Google Drive and sends you an email.
 
 
 This is an enhancement of Amit Argawals Google Drive - File Activity Script for Google Apps Scripts. 
-
-https://www.labnol.org/internet/google-drive-activity-report/13857/.
+(https://www.labnol.org/internet/google-drive-activity-report/13857/)
 
 It also checks the permissions and returns the viewers and editors of a document/file. 
 It is set to report the changes within the last 24 hours. You can modify this by modifing the getTime value. 
 Please be aware of the regular Google Apps Scripts runtime quotas. 
-https://developers.google.com/apps-script/guides/services/quotas
+(https://developers.google.com/apps-script/guides/services/quotas)
 
 To set the script up:
 1. Open up a spreadsheet in Google Drive
