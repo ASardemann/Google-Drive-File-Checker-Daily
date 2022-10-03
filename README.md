@@ -16,5 +16,6 @@ To set the script up:
 2. Select Extensions and Apps Script
 3. Copy the code into the Apps Scripts Editor and replace the email var with your email
 4. Allow the script to run by clicking on Execute
+5. Set the monitorDaily function trigger to daily
 
 The script will now print all files which changed in the last 24 hours to the spreadsheet and will send an email to the given recipient.
