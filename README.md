@@ -4,6 +4,7 @@ Checks the changed files in your Google Drive and sends you an email.
 
 
 This is an enhancement of Amit Argawals Google Drive - File Activity Script for Google Apps Scripts. 
+
 https://www.labnol.org/internet/google-drive-activity-report/13857/.
 
 It also checks the permissions and returns the viewers and editors of a document/file. 
